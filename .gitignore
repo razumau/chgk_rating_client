@@ -1,2 +1,5 @@
 .idea
 venv
+build/
+chgk_rating_client.egg-info/
+dist/
