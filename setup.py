@@ -8,7 +8,7 @@ with open("requirements.txt", "r") as rs:
 
 setuptools.setup(
     name="chgk_rating_client",
-    version="1.0.1",
+    version="1.0.2",
     author="Jury Razumau",
     author_email="jurazumau@gmal.com",
     description="Клиент для API rating.chgk.info",
